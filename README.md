@@ -15,3 +15,5 @@ Built image-to-text analysis workflow by passing image embeddings along with use
 Enabled user-customizable prompts to support flexible invoice interpretation.
 
 
+# Outputs/Results:
+<img width="568" height="778" alt="image" src="https://github.com/user-attachments/assets/3cc62fb0-d131-4d79-935b-524790b8765d" />
